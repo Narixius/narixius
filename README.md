@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Spotify](https://github-bio-narimanmov.vercel.app/api/screenshot)](https://open.spotify.com/user/narimanmov)
+
+
 <!--
 **Narixius/narixius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
