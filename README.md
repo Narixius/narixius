@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://github-bio-narimanmov.vercel.app/api/screenshot)](https://open.spotify.com/user/narimanmov)
+[![Spotify](http://localhost:3000/api/spotify-stats)](https://open.spotify.com/user/narimanmov)
 
 
 <!--
