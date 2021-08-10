@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<!--**Narixius/narixius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h3 align="right">🎶 Spotify Status&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</h3>
+<img align="right" alt="SVG" src="https://github-bio-narimanmov.vercel.app/api/spotify-stats" />  
+
+
+**Narixius/narixius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,7 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-#### 🎶 Spotify Status
-<img alt="SVG" src="https://github-bio-narimanmov.vercel.app/api/spotify-stats" />  
+- ⚡ Fun fact: ... 
