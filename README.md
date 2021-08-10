@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-<h3 align="right">🎶 Spotify Status&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</h3>
-<img align="right" alt="SVG" src="https://github-bio-narimanmov.vercel.app/api/spotify-stats" />  
-
+<img align="right" width="310" alt="SVG" src="https://github-bio-narimanmov.vercel.app/api/spotify-stats" />  
 
 **Narixius/narixius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
