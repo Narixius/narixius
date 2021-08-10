@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://github-bio-narimanmov.vercel.app/api/spotify-stats)](https://open.spotify.com/user/narimanmov)
-
-
-<!--
-**Narixius/narixius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Narixius/narixius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+#### 🎶 Spotify Status
+<img alt="SVG" src="https://github-bio-narimanmov.vercel.app/api/spotify-stats" />  
