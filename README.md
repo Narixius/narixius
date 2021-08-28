@@ -2,25 +2,23 @@
 
 ## Hello there 👋
 
+I'm Nariman Movaffaghi. I'm always looking for the new ideas and trying to bring them to the reality, all day, everyday!
+
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Narixius | Twitter" width="23px" src="icons/twitter.svg" />
+  <img align="left" alt="Narixius | Twitter" width="20px" src="icons/twitter.svg" />
 </a>
-&nbsp;
 <a href="https://discord.com/users/Narixius#0001">
   <img align="left" alt="Narixius | Discord" width="23px" src="icons/discord.svg"  />
-</a>&nbsp;
+</a>
 <a href="https://github.com/narixius">
   <img align="left" alt="Narixius | Github" width="23px" src="icons/github.svg"  />
 </a>
-&nbsp;
 <a href="https://dribbble.com/narimanmov">
   <img align="left" alt="Narixius | Dribbble" width="23px" src="icons/dribbble.svg"  />
 </a>
 
 <br />
 <br />
-
-I'm Nariman Movaffaghi. I'm always looking for the new ideas and trying to bring them to the reality, all day, everyday!
 
 A Member of [Feel The Code](https://github.com/feelthecode) organization and a part time programmer.
 
