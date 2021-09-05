@@ -33,4 +33,4 @@ A Member of [Feel The Code](https://github.com/feelthecode) organization and a p
 ### Latest Project
 
 - [Spotiy Status for Github Profiles](https://github.com/Narixius/github-profile-spotify-status)<br/>
-  Using this project, you can add a beautiful Spotify status on your Github profile (Exactly what I did).
+  Using this project, you can add a beautiful Spotify status to your Github profile (Exactly what I did).
