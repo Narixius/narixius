@@ -1,8 +1,9 @@
 <img align="right" width="310" alt="SVG" src="https://github-profile-spotify-status.vercel.app/" />
 
-## Hello there 👋
+## Hey there 👋
 
-I'm Nariman Movaffaghi. I'm always looking for the new ideas and trying to bring them to the reality, all day, everyday!
+I'm Nariman Movaffaghi. <br />
+Every day I'm looking for new ideas and trying to bring them to reality!
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Narixius | Twitter" width="20px" src="icons/twitter.svg" />
@@ -20,7 +21,7 @@ I'm Nariman Movaffaghi. I'm always looking for the new ideas and trying to bring
 <br />
 <br />
 
-A Member of [Feel The Code](https://github.com/feelthecode) organization and a part time programmer.
+A member of the [@FeelTheCode](https://github.com/feelthecode) organization and a part-time programmer.
 
 <!-- **Languages and Tools:**
 
@@ -30,7 +31,7 @@ A Member of [Feel The Code](https://github.com/feelthecode) organization and a p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
  -->
-### Latest Project
+### Project highlights
 
-- [Spotiy Status for Github Profiles](https://github.com/Narixius/github-profile-spotify-status)<br/>
-  Using this project, you can add a beautiful Spotify status to your Github profile (Exactly what I did).
+- [Spotify Status for GitHub Profile](https://github.com/Narixius/github-profile-spotify-status)<br/>
+  Shows your recent and current playing Spotify song, besides your favorite artists on your GitHub profile.
