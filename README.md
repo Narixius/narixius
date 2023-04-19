@@ -5,7 +5,7 @@
 I'm Nariman Movaffaghi. <br />
 Every day I'm looking for new ideas and trying to bring them to reality!
 
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://twitter.com/Narixius">
   <img align="left" alt="Narixius | Twitter" width="20px" src="icons/twitter.svg" />
 </a>
 <a href="https://discord.com/users/Narixius#0001">
