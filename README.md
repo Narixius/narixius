@@ -23,15 +23,11 @@ Every day I'm looking for new ideas and trying to bring them to reality!
 
 A member of the [@FeelTheCode](https://github.com/feelthecode) organization and a part-time programmer.
 
-<!-- **Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
- -->
 ### Project highlights
 
 - [Spotify Status for GitHub Profile](https://github.com/Narixius/github-profile-spotify-status)<br/>
   Shows your recent and current playing Spotify song, besides your favorite artists on your GitHub profile.
+
+
+- [Ziro](https://github.com/zirojs/ziro) [WIP]<br/>
+  Simple SSR framework to have a delightful DX 
