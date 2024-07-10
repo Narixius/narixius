@@ -1,4 +1,4 @@
-<img align="right" width="310" alt="SVG" src="https://github-profile-spotify-status.vercel.app/?" />
+<img align="right" width="310" alt="SVG" src="https://github-bio.vercel.app" />
 
 ## Hey 👋
 
