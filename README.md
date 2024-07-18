@@ -2,8 +2,8 @@
 
 ## Hey 👋
 
-I'm Narixius. <br />
-Every day I'm looking for new ideas and trying to bring them to reality!
+This is Narixius. <br />
+Eager to explore new ideas
 
 <a href="https://twitter.com/Narixius">
   <img align="left" alt="Narixius | Twitter" width="20px" src="https://colored-icons.vercel.app/_next/static/media/twitter.47c771b7.svg" />
