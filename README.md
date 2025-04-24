@@ -6,10 +6,7 @@ This is Narixius. <br />
 Eager to explore new ideas
 
 <a href="https://twitter.com/Narixius">
-  <img align="left" alt="Narixius | Twitter" width="20px" src="https://colored-icons.vercel.app/_next/static/media/twitter.47c771b7.svg" />
-</a>
-<a href="https://twitch.tv/narixius_">
-  <img align="left" alt="Narixius | Dribbble" width="20px" src="https://colored-icons.vercel.app/_next/static/media/twitch.b08a94aa.svg"  />
+  <img align="left" alt="Narixius | Twitter" width="20px" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-48.png" />
 </a>
 
 <br />
@@ -21,5 +18,5 @@ Eager to explore new ideas
   Shows your recent and current playing Spotify song, besides your favorite artists on your GitHub profile.
 
 
-- [Ziro](https://github.com/zirojs/ziro) [WIP]<br/>
+- [Ziro](https://github.com/zrojs/zro) [WIP]<br/>
   Simple SSR framework with a delightful DX 
