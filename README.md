@@ -18,5 +18,5 @@ Eager to explore new ideas
   Shows your recent and current playing Spotify song, besides your favorite artists on your GitHub profile.
 
 
-- [Ziro](https://github.com/zrojs/zro) [WIP]<br/>
-  Simple SSR framework with a delightful DX 
+- [Zro](https://github.com/zrojs/zro) [WIP]<br/>
+  Simple React framework with a delightful DX 
