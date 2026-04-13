@@ -1,7 +1,7 @@
 
 ## Hey 👋
 
-<img align="right" width="310" alt="SVG" src="https://github-bio.vercel.app" />
+<!-- <img align="right" width="310" alt="SVG" src="https://github-bio.vercel.app" /> -->
 This is Narixius. <br />
 Eager to explore new ideas
 
